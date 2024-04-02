@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Rajat Tyagi</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/TyagiRajat</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/rajat-tyagi-17bb25279/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Scaler School Of Technology</td>
+      </tr>
+    </table>
